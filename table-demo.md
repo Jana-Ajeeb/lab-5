@@ -1,6 +1,6 @@
 ---
-layout: nice-text
-title: 'Nice Layout'
+layout: liquid-table
+title: 'amiright?'
 ---
 
 
