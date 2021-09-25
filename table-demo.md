@@ -24,7 +24,7 @@ gosling:
 
  <div class="heroImg"  markdown="1">
 
-![](img/nature.jpg)  
+![](img/ryan-v-ryan.jpg)  
 
 </div>
 
