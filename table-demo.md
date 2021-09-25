@@ -1,5 +1,5 @@
 ---
-layout: liquid-table
+layout: table-demo
 title: 'amiright?'
 reynolds:
   strengths:
@@ -24,7 +24,7 @@ gosling:
 
  <div class="heroImg"  markdown="1">
 
-![](https://https://jana-ajeeb.github.io/lab-5/assets/img/ryan-v-ryan.jpeg?raw=true)  
+![](img/ryan-v-ryan.jpg)  
 
 </div>
 
