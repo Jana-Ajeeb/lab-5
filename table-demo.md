@@ -1,5 +1,5 @@
 ---
-layout: table-demo
+layout: default
 title: 'amiright?'
 reynolds:
   strengths:
@@ -24,7 +24,7 @@ gosling:
 
  <div class="heroImg"  markdown="1">
 
-![](img/ryan-v-ryan.jpg)  
+![](img/nature.jpg)  
 
 </div>
 
